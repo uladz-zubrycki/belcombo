@@ -2,7 +2,7 @@
 
 Belarusian keyboard layouts combined with other languages used by belarusians for Windows and MacOS. Additional letters can by typed by holding AltGr button (Option on mac or left Ctrl+Alt on Windows). One can type in 2 languages without switching keyboard layout: **Alt+S=Š**.
 
-[Website in russian](https://adisloom.github.io/belcombo/)
+[Belcombo layouts](https://adisloom.github.io/belcombo/) website in russian.
 
 ## Layouts preview
 
